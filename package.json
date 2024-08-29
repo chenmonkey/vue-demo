@@ -11,6 +11,7 @@
   "dependencies": {
     "vue": "^3.4.37",
     "vxe-pc-ui": "^4.1.2",
+    "vue-router": "^4.1.6",
     "vxe-table": "^4.7.68"
   },
   "devDependencies": {
